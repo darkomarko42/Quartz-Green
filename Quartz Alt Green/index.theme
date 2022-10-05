@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Quartz Alt Green
+Comment=GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Quartz Alt Green
+MetacityTheme=Quartz Alt Green
+IconTheme=Marwaita
+CursorTheme=Marwaita
+CursorSize=24
